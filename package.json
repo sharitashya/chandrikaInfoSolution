@@ -1,0 +1,14 @@
+{
+  "name": "chandrika_info_solutions",
+  "version": "1.0.0",
+  "description": "WebdevelopmentStartup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShreeyashHarityashya",
+  "license": "ISC",
+  "devDependencies": {
+    "liveserver": "^0.1.20"
+  }
+}
